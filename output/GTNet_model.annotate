@@ -1,0 +1,1753 @@
+predicate_id: oio:hasExactSynonym
+object_id: aio:ResNN
+object_label: ResNet
+match_string: resnet
+matches_whole_text: false
+subject_start: 66
+subject_end: 71
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:ResNN
+object_label: ResNet
+match_string: resnet
+matches_whole_text: false
+subject_start: 64
+subject_end: 69
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:ResNN
+object_label: ResNet
+match_string: resnet
+matches_whole_text: false
+subject_start: 68
+subject_end: 73
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:ResNN
+object_label: ResNet
+match_string: resnet
+matches_whole_text: false
+subject_start: 11
+subject_end: 16
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:ANN
+object_label: ANN
+match_string: ann
+matches_whole_text: false
+subject_start: 6
+subject_end: 8
+
+---
+predicate_id: rdfs:label
+object_id: aio:Layer
+object_label: Layer
+match_string: layer
+matches_whole_text: false
+subject_start: 2
+subject_end: 6
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:ANN
+object_label: NN
+match_string: nn
+matches_whole_text: false
+subject_start: 27
+subject_end: 28
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:ResNN
+object_label: ResNet
+match_string: ResNet
+matches_whole_text: false
+subject_start: 1
+subject_end: 6
+
+---
+predicate_id: rdfs:label
+object_id: aio:Bias
+object_label: Bias
+match_string: bias
+matches_whole_text: false
+subject_start: 69
+subject_end: 72
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:Convolution1D_Layer
+object_label: Conv1d
+match_string: Conv1d
+matches_whole_text: false
+subject_start: 10
+subject_end: 15
+
+---
+predicate_id: rdfs:label
+object_id: aio:BatchNorm1D
+object_label: BatchNorm1D
+match_string: BatchNorm1d
+matches_whole_text: false
+subject_start: 8
+subject_end: 18
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:ReLU_Function
+object_label: ReLU
+match_string: relu
+matches_whole_text: false
+subject_start: 2
+subject_end: 5
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:MaxPooling1D_Layer
+object_label: MaxPool1D
+match_string: MaxPool1d
+matches_whole_text: false
+subject_start: 12
+subject_end: 20
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:MaxPooling1D_Layer
+object_label: MaxPool1d
+match_string: MaxPool1d
+matches_whole_text: false
+subject_start: 12
+subject_end: 20
+
+---
+predicate_id: rdfs:label
+object_id: aio:Layer
+object_label: Layer
+match_string: layer
+matches_whole_text: false
+subject_start: 2
+subject_end: 6
+
+---
+predicate_id: rdfs:label
+object_id: aio:Bias
+object_label: Bias
+match_string: bias
+matches_whole_text: false
+subject_start: 56
+subject_end: 59
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:Convolution1D_Layer
+object_label: Conv1d
+match_string: Conv1d
+matches_whole_text: false
+subject_start: 10
+subject_end: 15
+
+---
+predicate_id: rdfs:label
+object_id: aio:BatchNorm1D
+object_label: BatchNorm1D
+match_string: BatchNorm1d
+matches_whole_text: false
+subject_start: 8
+subject_end: 18
+
+---
+predicate_id: rdfs:label
+object_id: aio:Bias
+object_label: Bias
+match_string: bias
+matches_whole_text: false
+subject_start: 70
+subject_end: 73
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:Convolution1D_Layer
+object_label: Conv1d
+match_string: Conv1d
+matches_whole_text: false
+subject_start: 10
+subject_end: 15
+
+---
+predicate_id: rdfs:label
+object_id: aio:BatchNorm1D
+object_label: BatchNorm1D
+match_string: BatchNorm1d
+matches_whole_text: false
+subject_start: 8
+subject_end: 18
+
+---
+predicate_id: rdfs:label
+object_id: aio:Bias
+object_label: Bias
+match_string: bias
+matches_whole_text: false
+subject_start: 57
+subject_end: 60
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:Convolution1D_Layer
+object_label: Conv1d
+match_string: Conv1d
+matches_whole_text: false
+subject_start: 10
+subject_end: 15
+
+---
+predicate_id: rdfs:label
+object_id: aio:BatchNorm1D
+object_label: BatchNorm1D
+match_string: BatchNorm1d
+matches_whole_text: false
+subject_start: 8
+subject_end: 18
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:ReLU_Function
+object_label: ReLU
+match_string: relu
+matches_whole_text: false
+subject_start: 2
+subject_end: 5
+
+---
+predicate_id: rdfs:label
+object_id: aio:Bias
+object_label: Bias
+match_string: bias
+matches_whole_text: false
+subject_start: 53
+subject_end: 56
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:Convolution1D_Layer
+object_label: Conv1d
+match_string: Conv1d
+matches_whole_text: false
+subject_start: 6
+subject_end: 11
+
+---
+predicate_id: rdfs:label
+object_id: aio:BatchNorm1D
+object_label: BatchNorm1D
+match_string: BatchNorm1d
+matches_whole_text: false
+subject_start: 6
+subject_end: 16
+
+---
+predicate_id: rdfs:label
+object_id: aio:Bias
+object_label: Bias
+match_string: bias
+matches_whole_text: false
+subject_start: 57
+subject_end: 60
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:Convolution1D_Layer
+object_label: Conv1d
+match_string: Conv1d
+matches_whole_text: false
+subject_start: 10
+subject_end: 15
+
+---
+predicate_id: rdfs:label
+object_id: aio:BatchNorm1D
+object_label: BatchNorm1D
+match_string: BatchNorm1d
+matches_whole_text: false
+subject_start: 8
+subject_end: 18
+
+---
+predicate_id: rdfs:label
+object_id: aio:Bias
+object_label: Bias
+match_string: bias
+matches_whole_text: false
+subject_start: 70
+subject_end: 73
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:Convolution1D_Layer
+object_label: Conv1d
+match_string: Conv1d
+matches_whole_text: false
+subject_start: 10
+subject_end: 15
+
+---
+predicate_id: rdfs:label
+object_id: aio:BatchNorm1D
+object_label: BatchNorm1D
+match_string: BatchNorm1d
+matches_whole_text: false
+subject_start: 8
+subject_end: 18
+
+---
+predicate_id: rdfs:label
+object_id: aio:Bias
+object_label: Bias
+match_string: bias
+matches_whole_text: false
+subject_start: 57
+subject_end: 60
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:Convolution1D_Layer
+object_label: Conv1d
+match_string: Conv1d
+matches_whole_text: false
+subject_start: 10
+subject_end: 15
+
+---
+predicate_id: rdfs:label
+object_id: aio:BatchNorm1D
+object_label: BatchNorm1D
+match_string: BatchNorm1d
+matches_whole_text: false
+subject_start: 8
+subject_end: 18
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:ReLU_Function
+object_label: ReLU
+match_string: relu
+matches_whole_text: false
+subject_start: 2
+subject_end: 5
+
+---
+predicate_id: rdfs:label
+object_id: aio:Bias
+object_label: Bias
+match_string: bias
+matches_whole_text: false
+subject_start: 57
+subject_end: 60
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:Convolution1D_Layer
+object_label: Conv1d
+match_string: Conv1d
+matches_whole_text: false
+subject_start: 10
+subject_end: 15
+
+---
+predicate_id: rdfs:label
+object_id: aio:BatchNorm1D
+object_label: BatchNorm1D
+match_string: BatchNorm1d
+matches_whole_text: false
+subject_start: 8
+subject_end: 18
+
+---
+predicate_id: rdfs:label
+object_id: aio:Bias
+object_label: Bias
+match_string: bias
+matches_whole_text: false
+subject_start: 70
+subject_end: 73
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:Convolution1D_Layer
+object_label: Conv1d
+match_string: Conv1d
+matches_whole_text: false
+subject_start: 10
+subject_end: 15
+
+---
+predicate_id: rdfs:label
+object_id: aio:BatchNorm1D
+object_label: BatchNorm1D
+match_string: BatchNorm1d
+matches_whole_text: false
+subject_start: 8
+subject_end: 18
+
+---
+predicate_id: rdfs:label
+object_id: aio:Bias
+object_label: Bias
+match_string: bias
+matches_whole_text: false
+subject_start: 57
+subject_end: 60
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:Convolution1D_Layer
+object_label: Conv1d
+match_string: Conv1d
+matches_whole_text: false
+subject_start: 10
+subject_end: 15
+
+---
+predicate_id: rdfs:label
+object_id: aio:BatchNorm1D
+object_label: BatchNorm1D
+match_string: BatchNorm1d
+matches_whole_text: false
+subject_start: 8
+subject_end: 18
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:ReLU_Function
+object_label: ReLU
+match_string: relu
+matches_whole_text: false
+subject_start: 2
+subject_end: 5
+
+---
+predicate_id: rdfs:label
+object_id: aio:Layer
+object_label: Layer
+match_string: layer
+matches_whole_text: false
+subject_start: 2
+subject_end: 6
+
+---
+predicate_id: rdfs:label
+object_id: aio:Bias
+object_label: Bias
+match_string: bias
+matches_whole_text: false
+subject_start: 58
+subject_end: 61
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:Convolution1D_Layer
+object_label: Conv1d
+match_string: Conv1d
+matches_whole_text: false
+subject_start: 10
+subject_end: 15
+
+---
+predicate_id: rdfs:label
+object_id: aio:BatchNorm1D
+object_label: BatchNorm1D
+match_string: BatchNorm1d
+matches_whole_text: false
+subject_start: 8
+subject_end: 18
+
+---
+predicate_id: rdfs:label
+object_id: aio:Bias
+object_label: Bias
+match_string: bias
+matches_whole_text: false
+subject_start: 72
+subject_end: 75
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:Convolution1D_Layer
+object_label: Conv1d
+match_string: Conv1d
+matches_whole_text: false
+subject_start: 10
+subject_end: 15
+
+---
+predicate_id: rdfs:label
+object_id: aio:BatchNorm1D
+object_label: BatchNorm1D
+match_string: BatchNorm1d
+matches_whole_text: false
+subject_start: 8
+subject_end: 18
+
+---
+predicate_id: rdfs:label
+object_id: aio:Bias
+object_label: Bias
+match_string: bias
+matches_whole_text: false
+subject_start: 58
+subject_end: 61
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:Convolution1D_Layer
+object_label: Conv1d
+match_string: Conv1d
+matches_whole_text: false
+subject_start: 10
+subject_end: 15
+
+---
+predicate_id: rdfs:label
+object_id: aio:BatchNorm1D
+object_label: BatchNorm1D
+match_string: BatchNorm1d
+matches_whole_text: false
+subject_start: 8
+subject_end: 18
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:ReLU_Function
+object_label: ReLU
+match_string: relu
+matches_whole_text: false
+subject_start: 2
+subject_end: 5
+
+---
+predicate_id: rdfs:label
+object_id: aio:Bias
+object_label: Bias
+match_string: bias
+matches_whole_text: false
+subject_start: 54
+subject_end: 57
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:Convolution1D_Layer
+object_label: Conv1d
+match_string: Conv1d
+matches_whole_text: false
+subject_start: 6
+subject_end: 11
+
+---
+predicate_id: rdfs:label
+object_id: aio:BatchNorm1D
+object_label: BatchNorm1D
+match_string: BatchNorm1d
+matches_whole_text: false
+subject_start: 6
+subject_end: 16
+
+---
+predicate_id: rdfs:label
+object_id: aio:Bias
+object_label: Bias
+match_string: bias
+matches_whole_text: false
+subject_start: 58
+subject_end: 61
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:Convolution1D_Layer
+object_label: Conv1d
+match_string: Conv1d
+matches_whole_text: false
+subject_start: 10
+subject_end: 15
+
+---
+predicate_id: rdfs:label
+object_id: aio:BatchNorm1D
+object_label: BatchNorm1D
+match_string: BatchNorm1d
+matches_whole_text: false
+subject_start: 8
+subject_end: 18
+
+---
+predicate_id: rdfs:label
+object_id: aio:Bias
+object_label: Bias
+match_string: bias
+matches_whole_text: false
+subject_start: 72
+subject_end: 75
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:Convolution1D_Layer
+object_label: Conv1d
+match_string: Conv1d
+matches_whole_text: false
+subject_start: 10
+subject_end: 15
+
+---
+predicate_id: rdfs:label
+object_id: aio:BatchNorm1D
+object_label: BatchNorm1D
+match_string: BatchNorm1d
+matches_whole_text: false
+subject_start: 8
+subject_end: 18
+
+---
+predicate_id: rdfs:label
+object_id: aio:Bias
+object_label: Bias
+match_string: bias
+matches_whole_text: false
+subject_start: 58
+subject_end: 61
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:Convolution1D_Layer
+object_label: Conv1d
+match_string: Conv1d
+matches_whole_text: false
+subject_start: 10
+subject_end: 15
+
+---
+predicate_id: rdfs:label
+object_id: aio:BatchNorm1D
+object_label: BatchNorm1D
+match_string: BatchNorm1d
+matches_whole_text: false
+subject_start: 8
+subject_end: 18
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:ReLU_Function
+object_label: ReLU
+match_string: relu
+matches_whole_text: false
+subject_start: 2
+subject_end: 5
+
+---
+predicate_id: rdfs:label
+object_id: aio:Bias
+object_label: Bias
+match_string: bias
+matches_whole_text: false
+subject_start: 58
+subject_end: 61
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:Convolution1D_Layer
+object_label: Conv1d
+match_string: Conv1d
+matches_whole_text: false
+subject_start: 10
+subject_end: 15
+
+---
+predicate_id: rdfs:label
+object_id: aio:BatchNorm1D
+object_label: BatchNorm1D
+match_string: BatchNorm1d
+matches_whole_text: false
+subject_start: 8
+subject_end: 18
+
+---
+predicate_id: rdfs:label
+object_id: aio:Bias
+object_label: Bias
+match_string: bias
+matches_whole_text: false
+subject_start: 72
+subject_end: 75
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:Convolution1D_Layer
+object_label: Conv1d
+match_string: Conv1d
+matches_whole_text: false
+subject_start: 10
+subject_end: 15
+
+---
+predicate_id: rdfs:label
+object_id: aio:BatchNorm1D
+object_label: BatchNorm1D
+match_string: BatchNorm1d
+matches_whole_text: false
+subject_start: 8
+subject_end: 18
+
+---
+predicate_id: rdfs:label
+object_id: aio:Bias
+object_label: Bias
+match_string: bias
+matches_whole_text: false
+subject_start: 58
+subject_end: 61
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:Convolution1D_Layer
+object_label: Conv1d
+match_string: Conv1d
+matches_whole_text: false
+subject_start: 10
+subject_end: 15
+
+---
+predicate_id: rdfs:label
+object_id: aio:BatchNorm1D
+object_label: BatchNorm1D
+match_string: BatchNorm1d
+matches_whole_text: false
+subject_start: 8
+subject_end: 18
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:ReLU_Function
+object_label: ReLU
+match_string: relu
+matches_whole_text: false
+subject_start: 2
+subject_end: 5
+
+---
+predicate_id: rdfs:label
+object_id: aio:Bias
+object_label: Bias
+match_string: bias
+matches_whole_text: false
+subject_start: 58
+subject_end: 61
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:Convolution1D_Layer
+object_label: Conv1d
+match_string: Conv1d
+matches_whole_text: false
+subject_start: 10
+subject_end: 15
+
+---
+predicate_id: rdfs:label
+object_id: aio:BatchNorm1D
+object_label: BatchNorm1D
+match_string: BatchNorm1d
+matches_whole_text: false
+subject_start: 8
+subject_end: 18
+
+---
+predicate_id: rdfs:label
+object_id: aio:Bias
+object_label: Bias
+match_string: bias
+matches_whole_text: false
+subject_start: 72
+subject_end: 75
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:Convolution1D_Layer
+object_label: Conv1d
+match_string: Conv1d
+matches_whole_text: false
+subject_start: 10
+subject_end: 15
+
+---
+predicate_id: rdfs:label
+object_id: aio:BatchNorm1D
+object_label: BatchNorm1D
+match_string: BatchNorm1d
+matches_whole_text: false
+subject_start: 8
+subject_end: 18
+
+---
+predicate_id: rdfs:label
+object_id: aio:Bias
+object_label: Bias
+match_string: bias
+matches_whole_text: false
+subject_start: 58
+subject_end: 61
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:Convolution1D_Layer
+object_label: Conv1d
+match_string: Conv1d
+matches_whole_text: false
+subject_start: 10
+subject_end: 15
+
+---
+predicate_id: rdfs:label
+object_id: aio:BatchNorm1D
+object_label: BatchNorm1D
+match_string: BatchNorm1d
+matches_whole_text: false
+subject_start: 8
+subject_end: 18
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:ReLU_Function
+object_label: ReLU
+match_string: relu
+matches_whole_text: false
+subject_start: 2
+subject_end: 5
+
+---
+predicate_id: rdfs:label
+object_id: aio:Layer
+object_label: Layer
+match_string: layer
+matches_whole_text: false
+subject_start: 2
+subject_end: 6
+
+---
+predicate_id: rdfs:label
+object_id: aio:Bias
+object_label: Bias
+match_string: bias
+matches_whole_text: false
+subject_start: 58
+subject_end: 61
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:Convolution1D_Layer
+object_label: Conv1d
+match_string: Conv1d
+matches_whole_text: false
+subject_start: 10
+subject_end: 15
+
+---
+predicate_id: rdfs:label
+object_id: aio:BatchNorm1D
+object_label: BatchNorm1D
+match_string: BatchNorm1d
+matches_whole_text: false
+subject_start: 8
+subject_end: 18
+
+---
+predicate_id: rdfs:label
+object_id: aio:Bias
+object_label: Bias
+match_string: bias
+matches_whole_text: false
+subject_start: 72
+subject_end: 75
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:Convolution1D_Layer
+object_label: Conv1d
+match_string: Conv1d
+matches_whole_text: false
+subject_start: 10
+subject_end: 15
+
+---
+predicate_id: rdfs:label
+object_id: aio:BatchNorm1D
+object_label: BatchNorm1D
+match_string: BatchNorm1d
+matches_whole_text: false
+subject_start: 8
+subject_end: 18
+
+---
+predicate_id: rdfs:label
+object_id: aio:Bias
+object_label: Bias
+match_string: bias
+matches_whole_text: false
+subject_start: 59
+subject_end: 62
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:Convolution1D_Layer
+object_label: Conv1d
+match_string: Conv1d
+matches_whole_text: false
+subject_start: 10
+subject_end: 15
+
+---
+predicate_id: rdfs:label
+object_id: aio:BatchNorm1D
+object_label: BatchNorm1D
+match_string: BatchNorm1d
+matches_whole_text: false
+subject_start: 8
+subject_end: 18
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:ReLU_Function
+object_label: ReLU
+match_string: relu
+matches_whole_text: false
+subject_start: 2
+subject_end: 5
+
+---
+predicate_id: rdfs:label
+object_id: aio:Bias
+object_label: Bias
+match_string: bias
+matches_whole_text: false
+subject_start: 55
+subject_end: 58
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:Convolution1D_Layer
+object_label: Conv1d
+match_string: Conv1d
+matches_whole_text: false
+subject_start: 6
+subject_end: 11
+
+---
+predicate_id: rdfs:label
+object_id: aio:BatchNorm1D
+object_label: BatchNorm1D
+match_string: BatchNorm1d
+matches_whole_text: false
+subject_start: 6
+subject_end: 16
+
+---
+predicate_id: rdfs:label
+object_id: aio:Bias
+object_label: Bias
+match_string: bias
+matches_whole_text: false
+subject_start: 59
+subject_end: 62
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:Convolution1D_Layer
+object_label: Conv1d
+match_string: Conv1d
+matches_whole_text: false
+subject_start: 10
+subject_end: 15
+
+---
+predicate_id: rdfs:label
+object_id: aio:BatchNorm1D
+object_label: BatchNorm1D
+match_string: BatchNorm1d
+matches_whole_text: false
+subject_start: 8
+subject_end: 18
+
+---
+predicate_id: rdfs:label
+object_id: aio:Bias
+object_label: Bias
+match_string: bias
+matches_whole_text: false
+subject_start: 72
+subject_end: 75
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:Convolution1D_Layer
+object_label: Conv1d
+match_string: Conv1d
+matches_whole_text: false
+subject_start: 10
+subject_end: 15
+
+---
+predicate_id: rdfs:label
+object_id: aio:BatchNorm1D
+object_label: BatchNorm1D
+match_string: BatchNorm1d
+matches_whole_text: false
+subject_start: 8
+subject_end: 18
+
+---
+predicate_id: rdfs:label
+object_id: aio:Bias
+object_label: Bias
+match_string: bias
+matches_whole_text: false
+subject_start: 59
+subject_end: 62
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:Convolution1D_Layer
+object_label: Conv1d
+match_string: Conv1d
+matches_whole_text: false
+subject_start: 10
+subject_end: 15
+
+---
+predicate_id: rdfs:label
+object_id: aio:BatchNorm1D
+object_label: BatchNorm1D
+match_string: BatchNorm1d
+matches_whole_text: false
+subject_start: 8
+subject_end: 18
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:ReLU_Function
+object_label: ReLU
+match_string: relu
+matches_whole_text: false
+subject_start: 2
+subject_end: 5
+
+---
+predicate_id: rdfs:label
+object_id: aio:Bias
+object_label: Bias
+match_string: bias
+matches_whole_text: false
+subject_start: 59
+subject_end: 62
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:Convolution1D_Layer
+object_label: Conv1d
+match_string: Conv1d
+matches_whole_text: false
+subject_start: 10
+subject_end: 15
+
+---
+predicate_id: rdfs:label
+object_id: aio:BatchNorm1D
+object_label: BatchNorm1D
+match_string: BatchNorm1d
+matches_whole_text: false
+subject_start: 8
+subject_end: 18
+
+---
+predicate_id: rdfs:label
+object_id: aio:Bias
+object_label: Bias
+match_string: bias
+matches_whole_text: false
+subject_start: 72
+subject_end: 75
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:Convolution1D_Layer
+object_label: Conv1d
+match_string: Conv1d
+matches_whole_text: false
+subject_start: 10
+subject_end: 15
+
+---
+predicate_id: rdfs:label
+object_id: aio:BatchNorm1D
+object_label: BatchNorm1D
+match_string: BatchNorm1d
+matches_whole_text: false
+subject_start: 8
+subject_end: 18
+
+---
+predicate_id: rdfs:label
+object_id: aio:Bias
+object_label: Bias
+match_string: bias
+matches_whole_text: false
+subject_start: 59
+subject_end: 62
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:Convolution1D_Layer
+object_label: Conv1d
+match_string: Conv1d
+matches_whole_text: false
+subject_start: 10
+subject_end: 15
+
+---
+predicate_id: rdfs:label
+object_id: aio:BatchNorm1D
+object_label: BatchNorm1D
+match_string: BatchNorm1d
+matches_whole_text: false
+subject_start: 8
+subject_end: 18
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:ReLU_Function
+object_label: ReLU
+match_string: relu
+matches_whole_text: false
+subject_start: 2
+subject_end: 5
+
+---
+predicate_id: rdfs:label
+object_id: aio:Bias
+object_label: Bias
+match_string: bias
+matches_whole_text: false
+subject_start: 59
+subject_end: 62
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:Convolution1D_Layer
+object_label: Conv1d
+match_string: Conv1d
+matches_whole_text: false
+subject_start: 10
+subject_end: 15
+
+---
+predicate_id: rdfs:label
+object_id: aio:BatchNorm1D
+object_label: BatchNorm1D
+match_string: BatchNorm1d
+matches_whole_text: false
+subject_start: 8
+subject_end: 18
+
+---
+predicate_id: rdfs:label
+object_id: aio:Bias
+object_label: Bias
+match_string: bias
+matches_whole_text: false
+subject_start: 72
+subject_end: 75
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:Convolution1D_Layer
+object_label: Conv1d
+match_string: Conv1d
+matches_whole_text: false
+subject_start: 10
+subject_end: 15
+
+---
+predicate_id: rdfs:label
+object_id: aio:BatchNorm1D
+object_label: BatchNorm1D
+match_string: BatchNorm1d
+matches_whole_text: false
+subject_start: 8
+subject_end: 18
+
+---
+predicate_id: rdfs:label
+object_id: aio:Bias
+object_label: Bias
+match_string: bias
+matches_whole_text: false
+subject_start: 59
+subject_end: 62
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:Convolution1D_Layer
+object_label: Conv1d
+match_string: Conv1d
+matches_whole_text: false
+subject_start: 10
+subject_end: 15
+
+---
+predicate_id: rdfs:label
+object_id: aio:BatchNorm1D
+object_label: BatchNorm1D
+match_string: BatchNorm1d
+matches_whole_text: false
+subject_start: 8
+subject_end: 18
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:ReLU_Function
+object_label: ReLU
+match_string: relu
+matches_whole_text: false
+subject_start: 2
+subject_end: 5
+
+---
+predicate_id: rdfs:label
+object_id: aio:Bias
+object_label: Bias
+match_string: bias
+matches_whole_text: false
+subject_start: 59
+subject_end: 62
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:Convolution1D_Layer
+object_label: Conv1d
+match_string: Conv1d
+matches_whole_text: false
+subject_start: 10
+subject_end: 15
+
+---
+predicate_id: rdfs:label
+object_id: aio:BatchNorm1D
+object_label: BatchNorm1D
+match_string: BatchNorm1d
+matches_whole_text: false
+subject_start: 8
+subject_end: 18
+
+---
+predicate_id: rdfs:label
+object_id: aio:Bias
+object_label: Bias
+match_string: bias
+matches_whole_text: false
+subject_start: 72
+subject_end: 75
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:Convolution1D_Layer
+object_label: Conv1d
+match_string: Conv1d
+matches_whole_text: false
+subject_start: 10
+subject_end: 15
+
+---
+predicate_id: rdfs:label
+object_id: aio:BatchNorm1D
+object_label: BatchNorm1D
+match_string: BatchNorm1d
+matches_whole_text: false
+subject_start: 8
+subject_end: 18
+
+---
+predicate_id: rdfs:label
+object_id: aio:Bias
+object_label: Bias
+match_string: bias
+matches_whole_text: false
+subject_start: 59
+subject_end: 62
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:Convolution1D_Layer
+object_label: Conv1d
+match_string: Conv1d
+matches_whole_text: false
+subject_start: 10
+subject_end: 15
+
+---
+predicate_id: rdfs:label
+object_id: aio:BatchNorm1D
+object_label: BatchNorm1D
+match_string: BatchNorm1d
+matches_whole_text: false
+subject_start: 8
+subject_end: 18
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:ReLU_Function
+object_label: ReLU
+match_string: relu
+matches_whole_text: false
+subject_start: 2
+subject_end: 5
+
+---
+predicate_id: rdfs:label
+object_id: aio:Bias
+object_label: Bias
+match_string: bias
+matches_whole_text: false
+subject_start: 59
+subject_end: 62
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:Convolution1D_Layer
+object_label: Conv1d
+match_string: Conv1d
+matches_whole_text: false
+subject_start: 10
+subject_end: 15
+
+---
+predicate_id: rdfs:label
+object_id: aio:BatchNorm1D
+object_label: BatchNorm1D
+match_string: BatchNorm1d
+matches_whole_text: false
+subject_start: 8
+subject_end: 18
+
+---
+predicate_id: rdfs:label
+object_id: aio:Bias
+object_label: Bias
+match_string: bias
+matches_whole_text: false
+subject_start: 72
+subject_end: 75
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:Convolution1D_Layer
+object_label: Conv1d
+match_string: Conv1d
+matches_whole_text: false
+subject_start: 10
+subject_end: 15
+
+---
+predicate_id: rdfs:label
+object_id: aio:BatchNorm1D
+object_label: BatchNorm1D
+match_string: BatchNorm1d
+matches_whole_text: false
+subject_start: 8
+subject_end: 18
+
+---
+predicate_id: rdfs:label
+object_id: aio:Bias
+object_label: Bias
+match_string: bias
+matches_whole_text: false
+subject_start: 59
+subject_end: 62
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:Convolution1D_Layer
+object_label: Conv1d
+match_string: Conv1d
+matches_whole_text: false
+subject_start: 10
+subject_end: 15
+
+---
+predicate_id: rdfs:label
+object_id: aio:BatchNorm1D
+object_label: BatchNorm1D
+match_string: BatchNorm1d
+matches_whole_text: false
+subject_start: 8
+subject_end: 18
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:ReLU_Function
+object_label: ReLU
+match_string: relu
+matches_whole_text: false
+subject_start: 2
+subject_end: 5
+
+---
+predicate_id: rdfs:label
+object_id: aio:Layer
+object_label: Layer
+match_string: layer
+matches_whole_text: false
+subject_start: 2
+subject_end: 6
+
+---
+predicate_id: rdfs:label
+object_id: aio:Bias
+object_label: Bias
+match_string: bias
+matches_whole_text: false
+subject_start: 59
+subject_end: 62
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:Convolution1D_Layer
+object_label: Conv1d
+match_string: Conv1d
+matches_whole_text: false
+subject_start: 10
+subject_end: 15
+
+---
+predicate_id: rdfs:label
+object_id: aio:BatchNorm1D
+object_label: BatchNorm1D
+match_string: BatchNorm1d
+matches_whole_text: false
+subject_start: 8
+subject_end: 18
+
+---
+predicate_id: rdfs:label
+object_id: aio:Bias
+object_label: Bias
+match_string: bias
+matches_whole_text: false
+subject_start: 72
+subject_end: 75
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:Convolution1D_Layer
+object_label: Conv1d
+match_string: Conv1d
+matches_whole_text: false
+subject_start: 10
+subject_end: 15
+
+---
+predicate_id: rdfs:label
+object_id: aio:BatchNorm1D
+object_label: BatchNorm1D
+match_string: BatchNorm1d
+matches_whole_text: false
+subject_start: 8
+subject_end: 18
+
+---
+predicate_id: rdfs:label
+object_id: aio:Bias
+object_label: Bias
+match_string: bias
+matches_whole_text: false
+subject_start: 59
+subject_end: 62
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:Convolution1D_Layer
+object_label: Conv1d
+match_string: Conv1d
+matches_whole_text: false
+subject_start: 10
+subject_end: 15
+
+---
+predicate_id: rdfs:label
+object_id: aio:BatchNorm1D
+object_label: BatchNorm1D
+match_string: BatchNorm1d
+matches_whole_text: false
+subject_start: 8
+subject_end: 18
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:ReLU_Function
+object_label: ReLU
+match_string: relu
+matches_whole_text: false
+subject_start: 2
+subject_end: 5
+
+---
+predicate_id: rdfs:label
+object_id: aio:Bias
+object_label: Bias
+match_string: bias
+matches_whole_text: false
+subject_start: 56
+subject_end: 59
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:Convolution1D_Layer
+object_label: Conv1d
+match_string: Conv1d
+matches_whole_text: false
+subject_start: 6
+subject_end: 11
+
+---
+predicate_id: rdfs:label
+object_id: aio:BatchNorm1D
+object_label: BatchNorm1D
+match_string: BatchNorm1d
+matches_whole_text: false
+subject_start: 6
+subject_end: 16
+
+---
+predicate_id: rdfs:label
+object_id: aio:Bias
+object_label: Bias
+match_string: bias
+matches_whole_text: false
+subject_start: 59
+subject_end: 62
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:Convolution1D_Layer
+object_label: Conv1d
+match_string: Conv1d
+matches_whole_text: false
+subject_start: 10
+subject_end: 15
+
+---
+predicate_id: rdfs:label
+object_id: aio:BatchNorm1D
+object_label: BatchNorm1D
+match_string: BatchNorm1d
+matches_whole_text: false
+subject_start: 8
+subject_end: 18
+
+---
+predicate_id: rdfs:label
+object_id: aio:Bias
+object_label: Bias
+match_string: bias
+matches_whole_text: false
+subject_start: 72
+subject_end: 75
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:Convolution1D_Layer
+object_label: Conv1d
+match_string: Conv1d
+matches_whole_text: false
+subject_start: 10
+subject_end: 15
+
+---
+predicate_id: rdfs:label
+object_id: aio:BatchNorm1D
+object_label: BatchNorm1D
+match_string: BatchNorm1d
+matches_whole_text: false
+subject_start: 8
+subject_end: 18
+
+---
+predicate_id: rdfs:label
+object_id: aio:Bias
+object_label: Bias
+match_string: bias
+matches_whole_text: false
+subject_start: 59
+subject_end: 62
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:Convolution1D_Layer
+object_label: Conv1d
+match_string: Conv1d
+matches_whole_text: false
+subject_start: 10
+subject_end: 15
+
+---
+predicate_id: rdfs:label
+object_id: aio:BatchNorm1D
+object_label: BatchNorm1D
+match_string: BatchNorm1d
+matches_whole_text: false
+subject_start: 8
+subject_end: 18
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:ReLU_Function
+object_label: ReLU
+match_string: relu
+matches_whole_text: false
+subject_start: 2
+subject_end: 5
+
+---
+predicate_id: rdfs:label
+object_id: aio:Bias
+object_label: Bias
+match_string: bias
+matches_whole_text: false
+subject_start: 59
+subject_end: 62
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:Convolution1D_Layer
+object_label: Conv1d
+match_string: Conv1d
+matches_whole_text: false
+subject_start: 10
+subject_end: 15
+
+---
+predicate_id: rdfs:label
+object_id: aio:BatchNorm1D
+object_label: BatchNorm1D
+match_string: BatchNorm1d
+matches_whole_text: false
+subject_start: 8
+subject_end: 18
+
+---
+predicate_id: rdfs:label
+object_id: aio:Bias
+object_label: Bias
+match_string: bias
+matches_whole_text: false
+subject_start: 72
+subject_end: 75
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:Convolution1D_Layer
+object_label: Conv1d
+match_string: Conv1d
+matches_whole_text: false
+subject_start: 10
+subject_end: 15
+
+---
+predicate_id: rdfs:label
+object_id: aio:BatchNorm1D
+object_label: BatchNorm1D
+match_string: BatchNorm1d
+matches_whole_text: false
+subject_start: 8
+subject_end: 18
+
+---
+predicate_id: rdfs:label
+object_id: aio:Bias
+object_label: Bias
+match_string: bias
+matches_whole_text: false
+subject_start: 59
+subject_end: 62
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:Convolution1D_Layer
+object_label: Conv1d
+match_string: Conv1d
+matches_whole_text: false
+subject_start: 10
+subject_end: 15
+
+---
+predicate_id: rdfs:label
+object_id: aio:BatchNorm1D
+object_label: BatchNorm1D
+match_string: BatchNorm1d
+matches_whole_text: false
+subject_start: 8
+subject_end: 18
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:ReLU_Function
+object_label: ReLU
+match_string: relu
+matches_whole_text: false
+subject_start: 2
+subject_end: 5
+
+---
+predicate_id: rdfs:label
+object_id: aio:Bias
+object_label: Bias
+match_string: bias
+matches_whole_text: false
+subject_start: 59
+subject_end: 62
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:Convolution1D_Layer
+object_label: Conv1d
+match_string: Conv1d
+matches_whole_text: false
+subject_start: 10
+subject_end: 15
+
+---
+predicate_id: rdfs:label
+object_id: aio:BatchNorm1D
+object_label: BatchNorm1D
+match_string: BatchNorm1d
+matches_whole_text: false
+subject_start: 8
+subject_end: 18
+
+---
+predicate_id: oio:hasExactSynonym
+object_id: aio:ReLU_Function
+object_label: ReLU
+match_string: relu
+matches_whole_text: false
+subject_start: 2
+subject_end: 5
+
+---
+predicate_id: rdfs:label
+object_id: aio:Bias
+object_label: Bias
+match_string: bias
+matches_whole_text: false
+subject_start: 51
+subject_end: 54
